@@ -1,0 +1,5 @@
+[project]
+name = "audit-repo"
+version = "0.1.0"
+description = "A practical Codex skill for evidence-backed repository health audits"
+requires-python = ">=3.10"
