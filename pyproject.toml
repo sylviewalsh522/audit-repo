@@ -5,3 +5,4 @@ description = "A practical Codex skill for evidence-backed repository health aud
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
